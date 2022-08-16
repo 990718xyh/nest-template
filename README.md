@@ -1,12 +1,22 @@
 ## Description
 
-[Nest-Template](https://github.com/990718xyh/nest-template.git) Nestjs basic development template.
+[Nest-Template](https://github.com/990718xyh/nest-template.git) is Nestjs basic development template.
 
 The following functions are integrated internally:
 
 - Logs
 - mysql Config
 - Code checksum formatting
+
+## Use
+
+```bash
+$ git clone https://github.com/990718xyh/nest-template.git
+$ npm i
+```
+
+modify [Dockerfile](./Dockerfile)<br/>
+modify [LICENSE](./LICENSE)
 
 ## Installation
 
