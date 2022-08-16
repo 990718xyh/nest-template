@@ -2,7 +2,7 @@ FROM node:16.14-alpine AS build
 
 WORKDIR /blog
 
-MAINTAINER violent:www.3541605381@outlook.com
+MAINTAINER {you name}:{your Email}
 
 RUN npm i
 
